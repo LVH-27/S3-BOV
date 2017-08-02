@@ -26,3 +26,13 @@ konstrukcija
 napajanje, baterije, solarno - sunčekooooo
 
 nakon kaj to bude pic-pic, spajamo Arduino na NodeMCU, njega na mobač, njega na server
+
+
+
+ono I2C govno:
+	altitude? pod morem? hmmm.
+		aha, to se računa. glup sam.
+	setClock - vidi kak se to ponaša
+
+SD card reader:
+	kak to diše? kaj s filesystemom kartice?
