@@ -1,0 +1,28 @@
+bovica
+
+GSM 
+	mobitel, za slanje na server/SMS
+	veza s mobitelom - IR, BlueTooth? Otkud nam?
+
+GPS
+
+temperatura
+tlak
+
+optička gustoća
+	LED + fotodioda, između voda
+
+
+
+TODO:
+
+senzori na Arduino:
+	jedan I2C senzor
+	nekoliko analognih
+	SD kartica za logging
+
+konstrukcija
+
+napajanje, baterije, solarno - sunčekooooo
+
+nakon kaj to bude pic-pic, spajamo Arduino na NodeMCU, njega na mobač, njega na server
