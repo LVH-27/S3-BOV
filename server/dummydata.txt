@@ -1,100 +1,601 @@
-Temperature: 16 | Pressure: 39
-Temperature: 37 | Pressure: 35
-Temperature: 19 | Pressure: 26
-Temperature: 22 | Pressure: 25
-Temperature: 25 | Pressure: 23
-Temperature: 35 | Pressure: 16
-Temperature: 36 | Pressure: 24
-Temperature: 26 | Pressure: 37
-Temperature: 36 | Pressure: 35
-Temperature: 34 | Pressure: 30
-Temperature: 40 | Pressure: 40
-Temperature: 17 | Pressure: 20
-Temperature: 37 | Pressure: 36
-Temperature: 34 | Pressure: 21
-Temperature: 24 | Pressure: 26
-Temperature: 35 | Pressure: 30
-Temperature: 36 | Pressure: 24
-Temperature: 22 | Pressure: 27
-Temperature: 38 | Pressure: 31
-Temperature: 23 | Pressure: 33
-Temperature: 39 | Pressure: 31
-Temperature: 36 | Pressure: 24
-Temperature: 16 | Pressure: 36
-Temperature: 16 | Pressure: 27
-Temperature: 18 | Pressure: 24
-Temperature: 21 | Pressure: 37
-Temperature: 16 | Pressure: 34
-Temperature: 23 | Pressure: 37
-Temperature: 25 | Pressure: 38
-Temperature: 15 | Pressure: 25
-Temperature: 20 | Pressure: 36
-Temperature: 32 | Pressure: 26
-Temperature: 25 | Pressure: 19
-Temperature: 26 | Pressure: 17
-Temperature: 22 | Pressure: 24
-Temperature: 26 | Pressure: 40
-Temperature: 34 | Pressure: 37
-Temperature: 36 | Pressure: 19
-Temperature: 37 | Pressure: 15
-Temperature: 31 | Pressure: 22
-Temperature: 24 | Pressure: 23
-Temperature: 29 | Pressure: 26
-Temperature: 29 | Pressure: 36
-Temperature: 38 | Pressure: 36
-Temperature: 26 | Pressure: 21
-Temperature: 24 | Pressure: 27
-Temperature: 31 | Pressure: 21
-Temperature: 36 | Pressure: 18
-Temperature: 28 | Pressure: 35
-Temperature: 23 | Pressure: 26
-Temperature: 30 | Pressure: 32
-Temperature: 33 | Pressure: 27
-Temperature: 23 | Pressure: 30
-Temperature: 18 | Pressure: 16
-Temperature: 33 | Pressure: 30
-Temperature: 26 | Pressure: 17
-Temperature: 24 | Pressure: 40
-Temperature: 18 | Pressure: 19
-Temperature: 28 | Pressure: 18
-Temperature: 20 | Pressure: 28
-Temperature: 37 | Pressure: 40
-Temperature: 37 | Pressure: 25
-Temperature: 15 | Pressure: 32
-Temperature: 37 | Pressure: 32
-Temperature: 33 | Pressure: 32
-Temperature: 20 | Pressure: 33
-Temperature: 16 | Pressure: 33
-Temperature: 32 | Pressure: 15
-Temperature: 27 | Pressure: 22
-Temperature: 28 | Pressure: 30
-Temperature: 33 | Pressure: 33
-Temperature: 29 | Pressure: 26
-Temperature: 25 | Pressure: 22
-Temperature: 30 | Pressure: 35
-Temperature: 18 | Pressure: 28
-Temperature: 25 | Pressure: 35
-Temperature: 36 | Pressure: 17
-Temperature: 19 | Pressure: 37
-Temperature: 21 | Pressure: 26
-Temperature: 15 | Pressure: 31
-Temperature: 30 | Pressure: 38
-Temperature: 15 | Pressure: 30
-Temperature: 19 | Pressure: 33
-Temperature: 16 | Pressure: 29
-Temperature: 26 | Pressure: 27
-Temperature: 21 | Pressure: 17
-Temperature: 23 | Pressure: 37
-Temperature: 31 | Pressure: 19
-Temperature: 30 | Pressure: 19
-Temperature: 32 | Pressure: 33
-Temperature: 36 | Pressure: 34
-Temperature: 35 | Pressure: 29
-Temperature: 29 | Pressure: 26
-Temperature: 22 | Pressure: 28
-Temperature: 18 | Pressure: 26
-Temperature: 28 | Pressure: 22
-Temperature: 24 | Pressure: 36
-Temperature: 20 | Pressure: 39
-Temperature: 25 | Pressure: 16
-Temperature: 34 | Pressure: 26
+{
+"0" :
+	{
+	"temperature": 27 ,
+	"pressure": 38
+	},
+
+"1" :
+	{
+	"temperature": 36 ,
+	"pressure": 17
+	},
+
+"2" :
+	{
+	"temperature": 32 ,
+	"pressure": 17
+	},
+
+"3" :
+	{
+	"temperature": 22 ,
+	"pressure": 15
+	},
+
+"4" :
+	{
+	"temperature": 21 ,
+	"pressure": 36
+	},
+
+"5" :
+	{
+	"temperature": 29 ,
+	"pressure": 35
+	},
+
+"6" :
+	{
+	"temperature": 19 ,
+	"pressure": 26
+	},
+
+"7" :
+	{
+	"temperature": 24 ,
+	"pressure": 25
+	},
+
+"8" :
+	{
+	"temperature": 21 ,
+	"pressure": 20
+	},
+
+"9" :
+	{
+	"temperature": 23 ,
+	"pressure": 40
+	},
+
+"10" :
+	{
+	"temperature": 17 ,
+	"pressure": 16
+	},
+
+"11" :
+	{
+	"temperature": 23 ,
+	"pressure": 24
+	},
+
+"12" :
+	{
+	"temperature": 37 ,
+	"pressure": 33
+	},
+
+"13" :
+	{
+	"temperature": 29 ,
+	"pressure": 25
+	},
+
+"14" :
+	{
+	"temperature": 27 ,
+	"pressure": 40
+	},
+
+"15" :
+	{
+	"temperature": 33 ,
+	"pressure": 19
+	},
+
+"16" :
+	{
+	"temperature": 20 ,
+	"pressure": 18
+	},
+
+"17" :
+	{
+	"temperature": 30 ,
+	"pressure": 38
+	},
+
+"18" :
+	{
+	"temperature": 38 ,
+	"pressure": 30
+	},
+
+"19" :
+	{
+	"temperature": 33 ,
+	"pressure": 27
+	},
+
+"20" :
+	{
+	"temperature": 37 ,
+	"pressure": 29
+	},
+
+"21" :
+	{
+	"temperature": 20 ,
+	"pressure": 40
+	},
+
+"22" :
+	{
+	"temperature": 23 ,
+	"pressure": 19
+	},
+
+"23" :
+	{
+	"temperature": 24 ,
+	"pressure": 33
+	},
+
+"24" :
+	{
+	"temperature": 20 ,
+	"pressure": 29
+	},
+
+"25" :
+	{
+	"temperature": 22 ,
+	"pressure": 32
+	},
+
+"26" :
+	{
+	"temperature": 19 ,
+	"pressure": 15
+	},
+
+"27" :
+	{
+	"temperature": 27 ,
+	"pressure": 19
+	},
+
+"28" :
+	{
+	"temperature": 23 ,
+	"pressure": 21
+	},
+
+"29" :
+	{
+	"temperature": 35 ,
+	"pressure": 39
+	},
+
+"30" :
+	{
+	"temperature": 23 ,
+	"pressure": 20
+	},
+
+"31" :
+	{
+	"temperature": 23 ,
+	"pressure": 18
+	},
+
+"32" :
+	{
+	"temperature": 26 ,
+	"pressure": 31
+	},
+
+"33" :
+	{
+	"temperature": 28 ,
+	"pressure": 20
+	},
+
+"34" :
+	{
+	"temperature": 39 ,
+	"pressure": 26
+	},
+
+"35" :
+	{
+	"temperature": 23 ,
+	"pressure": 18
+	},
+
+"36" :
+	{
+	"temperature": 22 ,
+	"pressure": 29
+	},
+
+"37" :
+	{
+	"temperature": 34 ,
+	"pressure": 39
+	},
+
+"38" :
+	{
+	"temperature": 32 ,
+	"pressure": 37
+	},
+
+"39" :
+	{
+	"temperature": 36 ,
+	"pressure": 27
+	},
+
+"40" :
+	{
+	"temperature": 27 ,
+	"pressure": 15
+	},
+
+"41" :
+	{
+	"temperature": 23 ,
+	"pressure": 34
+	},
+
+"42" :
+	{
+	"temperature": 37 ,
+	"pressure": 22
+	},
+
+"43" :
+	{
+	"temperature": 35 ,
+	"pressure": 17
+	},
+
+"44" :
+	{
+	"temperature": 15 ,
+	"pressure": 18
+	},
+
+"45" :
+	{
+	"temperature": 40 ,
+	"pressure": 15
+	},
+
+"46" :
+	{
+	"temperature": 38 ,
+	"pressure": 24
+	},
+
+"47" :
+	{
+	"temperature": 40 ,
+	"pressure": 25
+	},
+
+"48" :
+	{
+	"temperature": 19 ,
+	"pressure": 24
+	},
+
+"49" :
+	{
+	"temperature": 30 ,
+	"pressure": 21
+	},
+
+"50" :
+	{
+	"temperature": 31 ,
+	"pressure": 17
+	},
+
+"51" :
+	{
+	"temperature": 33 ,
+	"pressure": 19
+	},
+
+"52" :
+	{
+	"temperature": 18 ,
+	"pressure": 29
+	},
+
+"53" :
+	{
+	"temperature": 25 ,
+	"pressure": 31
+	},
+
+"54" :
+	{
+	"temperature": 39 ,
+	"pressure": 36
+	},
+
+"55" :
+	{
+	"temperature": 16 ,
+	"pressure": 29
+	},
+
+"56" :
+	{
+	"temperature": 17 ,
+	"pressure": 27
+	},
+
+"57" :
+	{
+	"temperature": 39 ,
+	"pressure": 19
+	},
+
+"58" :
+	{
+	"temperature": 28 ,
+	"pressure": 18
+	},
+
+"59" :
+	{
+	"temperature": 21 ,
+	"pressure": 18
+	},
+
+"60" :
+	{
+	"temperature": 32 ,
+	"pressure": 38
+	},
+
+"61" :
+	{
+	"temperature": 35 ,
+	"pressure": 31
+	},
+
+"62" :
+	{
+	"temperature": 28 ,
+	"pressure": 25
+	},
+
+"63" :
+	{
+	"temperature": 17 ,
+	"pressure": 32
+	},
+
+"64" :
+	{
+	"temperature": 30 ,
+	"pressure": 20
+	},
+
+"65" :
+	{
+	"temperature": 16 ,
+	"pressure": 16
+	},
+
+"66" :
+	{
+	"temperature": 18 ,
+	"pressure": 36
+	},
+
+"67" :
+	{
+	"temperature": 20 ,
+	"pressure": 21
+	},
+
+"68" :
+	{
+	"temperature": 21 ,
+	"pressure": 38
+	},
+
+"69" :
+	{
+	"temperature": 29 ,
+	"pressure": 17
+	},
+
+"70" :
+	{
+	"temperature": 38 ,
+	"pressure": 23
+	},
+
+"71" :
+	{
+	"temperature": 37 ,
+	"pressure": 26
+	},
+
+"72" :
+	{
+	"temperature": 25 ,
+	"pressure": 40
+	},
+
+"73" :
+	{
+	"temperature": 24 ,
+	"pressure": 24
+	},
+
+"74" :
+	{
+	"temperature": 30 ,
+	"pressure": 17
+	},
+
+"75" :
+	{
+	"temperature": 24 ,
+	"pressure": 25
+	},
+
+"76" :
+	{
+	"temperature": 40 ,
+	"pressure": 27
+	},
+
+"77" :
+	{
+	"temperature": 16 ,
+	"pressure": 37
+	},
+
+"78" :
+	{
+	"temperature": 32 ,
+	"pressure": 31
+	},
+
+"79" :
+	{
+	"temperature": 17 ,
+	"pressure": 27
+	},
+
+"80" :
+	{
+	"temperature": 21 ,
+	"pressure": 17
+	},
+
+"81" :
+	{
+	"temperature": 35 ,
+	"pressure": 21
+	},
+
+"82" :
+	{
+	"temperature": 38 ,
+	"pressure": 35
+	},
+
+"83" :
+	{
+	"temperature": 29 ,
+	"pressure": 32
+	},
+
+"84" :
+	{
+	"temperature": 19 ,
+	"pressure": 35
+	},
+
+"85" :
+	{
+	"temperature": 38 ,
+	"pressure": 31
+	},
+
+"86" :
+	{
+	"temperature": 33 ,
+	"pressure": 40
+	},
+
+"87" :
+	{
+	"temperature": 32 ,
+	"pressure": 22
+	},
+
+"88" :
+	{
+	"temperature": 35 ,
+	"pressure": 37
+	},
+
+"89" :
+	{
+	"temperature": 22 ,
+	"pressure": 37
+	},
+
+"90" :
+	{
+	"temperature": 24 ,
+	"pressure": 25
+	},
+
+"91" :
+	{
+	"temperature": 36 ,
+	"pressure": 15
+	},
+
+"92" :
+	{
+	"temperature": 17 ,
+	"pressure": 33
+	},
+
+"93" :
+	{
+	"temperature": 16 ,
+	"pressure": 31
+	},
+
+"94" :
+	{
+	"temperature": 39 ,
+	"pressure": 30
+	},
+
+"95" :
+	{
+	"temperature": 18 ,
+	"pressure": 34
+	},
+
+"96" :
+	{
+	"temperature": 35 ,
+	"pressure": 15
+	},
+
+"97" :
+	{
+	"temperature": 32 ,
+	"pressure": 32
+	},
+
+"98" :
+	{
+	"temperature": 33 ,
+	"pressure": 35
+	},
+
+"99" :
+	{
+	"temperature": 34 ,
+	"pressure": 30
+	}
+}

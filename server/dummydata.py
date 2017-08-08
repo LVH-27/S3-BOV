@@ -1,5 +1,12 @@
 import random
 random.seed()
 
+print('{')
 for i in range(100):
-	print("Temperature:", random.randint(15, 40), "| Pressure:", random.randint(15, 40))
+	print('"' + str(i) + '" :')
+	print('\t{')
+	print('\t"temperature":', random.randint(15, 40), ',')
+	print('\t"pressure":', random.randint(15, 40))
+	print('\t},')
+	print()
+print('}')
